@@ -1,5 +1,7 @@
 ---------KFC Application-----------
 
+Mongodb - mongodb+srv://vicky_03:2gBDRqpEelizHMgw@kfc.uh3mvos.mongodb.net/?retryWrites=true&w=majority
+
 --------- page-1 -----------
 
 => List of city 
