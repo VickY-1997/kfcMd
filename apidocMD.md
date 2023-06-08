@@ -16,19 +16,19 @@
 --------- page-3 -----------
 
 => Details of Menu selected 
--https://kfcapi-9az6.onrender.com/menu?menuId=1
+- https://kfcapi-9az6.onrender.com/menu?menuId=1
 
 => Place Order 
--https://kfcapi-9az6.onrender.com/placeOrder
+- https://kfcapi-9az6.onrender.com/placeOrder
 
 
 --------- page-4 -----------
 
 => List of all the orders 
--https://kfcapi-9az6.onrender.com/orders
+- https://kfcapi-9az6.onrender.com/orders
 
 => Update orders details 
--https://kfcapi-9az6.onrender.com/updateOrder
+- https://kfcapi-9az6.onrender.com/updateOrder
 
 => Delete Orders 
--https://kfcapi-9az6.onrender.com/deleteOrder
+- https://kfcapi-9az6.onrender.com/deleteOrder
